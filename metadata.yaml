@@ -1,5 +1,8 @@
 _repo: The-Amazing-Interlude_1590
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rinehart, Mary Roberts
@@ -13,6 +16,8 @@ description: Mary Roberts Rinehart (1876-1958) was an American author of hundred
   books and plays, such as "The Bat" (1920) were adapted for movies. While many of
   her books were best-sellers, critics were most appreciative of her murder mysteries.
   She also coined the famous phrase "The butler did it."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1590#The-Amazing-Interlude
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Contemporary Reviews
